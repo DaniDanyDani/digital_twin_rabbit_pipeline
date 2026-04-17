@@ -24,4 +24,10 @@ data/output/*
 # IDEs e Sistema
 .vscode/
 .idea/
-.DS_Store
+.DS_Stor
+
+*.obj
+*.stl
+*.ply
+*.fbx
+*.gltfe
