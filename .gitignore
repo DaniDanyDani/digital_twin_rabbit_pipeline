@@ -1,0 +1,27 @@
+# Compilação e Binários
+build/
+bin/
+*.o
+*.so
+*.dll
+*.exe
+
+# Ambientes Virtuais e Dependências
+__pycache__/
+venv/
+.venv/
+node_modules/
+env/
+*-env/
+
+# Dados e Logs
+data/input/*
+data/output/*
+!data/**/.gitkeep
+*.log
+*.tmp
+
+# IDEs e Sistema
+.vscode/
+.idea/
+.DS_Store
