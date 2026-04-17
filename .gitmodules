@@ -1,3 +1,9 @@
 [submodule "external/external/MyoMesh"]
 	path = external/external/MyoMesh
 	url = https://github.com/FISIOCOMP-UFJF/MyoMesh.git
+[submodule "external/Cardiac_Personalisation_Brazil"]
+	path = external/Cardiac_Personalisation_Brazil
+	url = git@github.com:bergolho/Cardiac_Personalisation_Brazil.git
+[submodule "external/MyoMesh"]
+	path = external/MyoMesh
+	url = https://github.com/FISIOCOMP-UFJF/MyoMesh.git
