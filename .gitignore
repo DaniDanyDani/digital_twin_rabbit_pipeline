@@ -26,6 +26,8 @@ data/output/*
 .idea/
 .DS_Stor
 
+external/MonoAlg3D_C/*
+
 *.obj
 *.stl
 *.ply
