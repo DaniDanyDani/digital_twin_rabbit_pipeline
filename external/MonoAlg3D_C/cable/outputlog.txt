@@ -1,0 +1,5 @@
+Command line to reproduce this simulation:
+/home/user/daniel/MonoAlg3D_C/bin/MonoAlg3D -c ./teste_cabo_tuneCV.ini 
+For reproducibility purposes the configuration file was copied to file: /home/user/daniel/MonoAlg3D_C/cable/original_configuration.ini
+======================================================================
+[ERR] 'save_tissue_with_activation_times' function not found in the provided in library ./shared_libs/libdefault_save_mesh.so. Error from dlsym ./shared_libs/libdefault_save_mesh.so: undefined symbol: save_tissue_with_activation_times

@@ -26,7 +26,11 @@ data/output/*
 .idea/
 .DS_Stor
 
-external/MonoAlg3D_C/*
+external/MonoAlg3D_C/local_meshes
+external/MonoAlg3D_C/meshes
+external/MonoAlg3D_C/outputs
+external/MonoAlg3D_C/save
+external/MonoAlg3D_C/tests_bin
 
 *.obj
 *.stl
